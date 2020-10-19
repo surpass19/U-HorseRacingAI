@@ -7,18 +7,18 @@
 # プログラムの説明
 ネットから, 機械学習に必要なデータをスクレイピングし, 特徴量を抽出, ハイパーパラメータ自動最適化ツールなどを用いて機械学習モデルを自作, 学習・テストをしています.<br>
 
-* main_az_vehicle_convert0807:<br>
+* 1-2-2sclape_traindata.ipynb:<br>
 ネット競馬(https://www.netkeiba.com/) からレース結果(教師データ)をスクレピングするプログラム
-* main_az_vehicle_convert0807:<br>
+* 1-4sclape_horse_results.ipynb:<br>
 ネット競馬(https://www.netkeiba.com/) から馬ごとのデータ(特徴量)をスクレピングするプログラム
-* main_az_vehicle_convert0807:<br>
+* 1-8sclape_jocky_results.ipynb:<br>
 ネット競馬(https://www.netkeiba.com/) から騎手ごとのデータ(特徴量)をスクレピングするプログラム
-* main_az_vehicle_convert0807:<br>
+* 1-11sclape_Pedigree.ipynb:<br>
 ネット競馬(https://www.netkeiba.com/) から馬の血統データ(特徴量)をスクレピングするプログラム
-* main_az_vehicle_convert0807:<br>
+* 1-12sclape_tables.ipynb:<br>
 ネット競馬(https://www.netkeiba.com/) から払い戻し金額データをスクレピングするプログラム
 
-* Optimization_az_vehicle_convert0807:<br>
+* 1-15model_hold.ipynb:<br>
 それらデータを加工, モデル作成・検証を行うプログラム
 
 # 学んだこと
