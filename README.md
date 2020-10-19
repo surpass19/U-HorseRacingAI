@@ -1,1 +1,1 @@
-# My-HobbyProject-Horse-racingAI
+# My-HobbyProject-HorseRacingAI
